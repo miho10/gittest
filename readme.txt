@@ -1,2 +1,0 @@
-﻿こんにちは、SourceTree
-addした aaa
