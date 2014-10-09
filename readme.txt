@@ -1,2 +1,2 @@
 ﻿こんにちは、SourceTree
-addした aaa
+addした 修正した
