@@ -6,5 +6,6 @@
 
 マージする
 
-どうなった 
+どうなった -- pullrequest
 myfeat2を追加
+
