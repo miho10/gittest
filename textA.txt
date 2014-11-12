@@ -4,9 +4,11 @@
 
 さらに追加20141031
 
-あいうえお
+マージする
 
 どうなった -- pullrequest
 myfeat2を追加
 
-delete
+pullrequest2
+
+tsuika
