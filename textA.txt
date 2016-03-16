@@ -14,3 +14,5 @@ pullrequest2
 tsuika
 
 test
+
+追加した
